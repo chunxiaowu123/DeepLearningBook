@@ -72,3 +72,4 @@ print("向量无穷范数", np.linalg.norm(a, ord=np.inf))
 
 
 
+
